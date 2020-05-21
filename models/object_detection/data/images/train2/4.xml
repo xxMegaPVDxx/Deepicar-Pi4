@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>4.jpg</filename>
+	<path>D:\Users\TIEN_DUNG\Projects\Do_an_tot_nghiep_Ky_su_Co_dien_tu\Documents_and_Data\images\4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Green Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>55</ymin>
+			<xmax>192</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>68</ymin>
+			<xmax>330</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>72</ymin>
+			<xmax>425</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>
