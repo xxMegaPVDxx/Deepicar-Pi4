@@ -1,0 +1,50 @@
+<annotation>
+	<folder>part6_images</folder>
+	<filename>0.jpg</filename>
+	<path>D:/Users/TIEN_DUNG/Projects/Do_an_tot_nghiep_Ky_su_Co_dien_tu/Documents_and_Data/part6_images/0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>90</ymin>
+			<xmax>235</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Limit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>109</ymin>
+			<xmax>383</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Limit 30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>109</ymin>
+			<xmax>508</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>
