@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train3</folder>
+	<filename>car_video_28_002.png</filename>
+	<path>E:/Python/Do_An_Tot_Nghiep/models/object_detection/data/images/train3/car_video_28_002.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>limit 30</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>50</ymin>
+			<xmax>320</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>
